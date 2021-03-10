@@ -1,11 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Frontend" />
-
-&#xa0;
-
-  <!-- <a href="https://frontend.netlify.app">Demo</a> -->
-</div>
-
 <h1 align="center">Portal Acessos FrontEnd</h1>
 
 <!-- Status -->
